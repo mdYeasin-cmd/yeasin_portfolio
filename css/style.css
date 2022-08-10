@@ -151,6 +151,13 @@ body {
 #portfolio .portfolio-haeding span{
     color: #f34236;
 }
+#portfolio .card_effect{
+    transition: all 0.3s linear;
+}
+#portfolio .card_effect:hover{
+    box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
+    transform: scale(1.02);
+}
 #portfolio .card_size{
     height: 500px;
     width: 100%;
@@ -162,6 +169,7 @@ body {
     border-radius: 5px;
     display: inline-block;
     margin: 20px 0;
+    font-size: 18px;
 }
 /* //Portfolio Section CSS End */
 
