@@ -66,15 +66,15 @@ body {
     margin-right: 0;
 }
 .scroll_bg{
-    background-color: #fff;
+    background-color: rgba(0, 0, 0, 0.9);
     box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
     
 }
 .scroll_bg #navbarSupportedContent ul li a {
-    color: #000;
+    color: #fff;
 }
 .scroll_bg .logo_text{ 
-    color: black;
+    color: #fff;
 }
 /* //Navigation Section CSS End */
 
